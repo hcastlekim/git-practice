@@ -1,0 +1,3 @@
+#gitignore 형식 
+#https://git-scm.com/docs/gitignore
+secret.yaml
